@@ -1,0 +1,11 @@
+C:\Users\EMİRHAN\Desktop\Udemy C#\Kitaplar\Kitaplar\bin\Debug\Kitaplar.exe.config
+C:\Users\EMİRHAN\Desktop\Udemy C#\Kitaplar\Kitaplar\bin\Debug\Kitaplar.exe
+C:\Users\EMİRHAN\Desktop\Udemy C#\Kitaplar\Kitaplar\bin\Debug\Kitaplar.pdb
+C:\Users\EMİRHAN\Desktop\Udemy C#\Kitaplar\Kitaplar\obj\Debug\Kitaplar.csproj.AssemblyReference.cache
+C:\Users\EMİRHAN\Desktop\Udemy C#\Kitaplar\Kitaplar\obj\Debug\Kitaplar.csproj.SuggestedBindingRedirects.cache
+C:\Users\EMİRHAN\Desktop\Udemy C#\Kitaplar\Kitaplar\obj\Debug\Kitaplar.Form1.resources
+C:\Users\EMİRHAN\Desktop\Udemy C#\Kitaplar\Kitaplar\obj\Debug\Kitaplar.Properties.Resources.resources
+C:\Users\EMİRHAN\Desktop\Udemy C#\Kitaplar\Kitaplar\obj\Debug\Kitaplar.csproj.GenerateResource.cache
+C:\Users\EMİRHAN\Desktop\Udemy C#\Kitaplar\Kitaplar\obj\Debug\Kitaplar.csproj.CoreCompileInputs.cache
+C:\Users\EMİRHAN\Desktop\Udemy C#\Kitaplar\Kitaplar\obj\Debug\Kitaplar.exe
+C:\Users\EMİRHAN\Desktop\Udemy C#\Kitaplar\Kitaplar\obj\Debug\Kitaplar.pdb
