@@ -1,6 +1,6 @@
 KİTAPLIK PROJESİ
 
-Bu proje sisteme kitap kaydetme güncelleme ve silme işlmelerine olanak sağlar. Aynı zamanda sistem üzerinden kitap arama imkanıda sunar.
+Bu proje sisteme kitap kaydetme güncelleme ve silme işlmelerine olanak sağlar. Aynı zamanda sistem üzerinden kitap arama imkanıda sunar.Windows Forms App(.Net Framework) ile yapılmıştır.
 
 Kitaplık Paneli
 
